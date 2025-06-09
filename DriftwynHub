@@ -15,5 +15,5 @@ if game.PlaceId == 126884695634066 then
 end
 
 if game.PlaceId == 87039211657390 then
-    https://raw.githubusercontent.com/Driftwyn/Arise-CrossOver-Main2/refs/heads/main/by%20Hace
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Driftwyn/Arise-CrossOver-Main2/refs/heads/main/by%20Hace"))()
 end
