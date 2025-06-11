@@ -21,7 +21,3 @@ end
 if game.PlaceId == 113651556675355 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Z4nq3/Driftywynn/refs/heads/main/Growafishfree.lua"))()
 end
-
-pcall(function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Z4nq3/Driftywynn/refs/heads/main/LolMenuDirftwynhub.lua"))()
-end)
