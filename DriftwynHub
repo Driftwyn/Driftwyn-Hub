@@ -21,3 +21,7 @@ end
 if game.PlaceId == 113651556675355 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Z4nq3/Driftywynn/refs/heads/main/Growafishfree.lua"))()
 end
+
+if game.PlaceId == 2753915549 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Driftwyn/Blox-Fruit/refs/heads/main/Driftwyn%20Hub"))()
+end
