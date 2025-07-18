@@ -1,6 +1,6 @@
 print("Current PlaceId:", game.PlaceId)
 if game.PlaceId == 87700573492940 then
-    https://raw.githubusercontent.com/Driftwyn/untitled-drill-game-/refs/heads/main/By%20Driftwyn
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Driftwyn/untitled-drill-game-/refs/heads/main/By%20Driftwyn"))()
 end
 
 if game.PlaceId == 126884695634066 then
@@ -13,4 +13,8 @@ end
 
 if game.PlaceId == 2753915549 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Driftwyn/Blox-Fruit/refs/heads/main/Driftwyn%20Hub"))()
+end
+
+if game.PlaceId == 1537690962 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Driftwyn/Bee-Swarm-Simulator/refs/heads/main/By%20Driftwyn"))()
 end
