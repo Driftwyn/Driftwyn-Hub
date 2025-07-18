@@ -1,6 +1,6 @@
 print("Current PlaceId:", game.PlaceId)
 if game.PlaceId == 87700573492940 then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Z4nq3/Driftwynhub/refs/heads/main/untitled%20drill%20game.lua"))()
+    https://raw.githubusercontent.com/Driftwyn/untitled-drill-game-/refs/heads/main/By%20Driftwyn
 end
 
 if game.PlaceId == 18384347299 then
