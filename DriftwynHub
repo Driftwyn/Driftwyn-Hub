@@ -3,24 +3,12 @@ if game.PlaceId == 87700573492940 then
     https://raw.githubusercontent.com/Driftwyn/untitled-drill-game-/refs/heads/main/By%20Driftwyn
 end
 
-if game.PlaceId == 18384347299 then
-    loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Z4nq3/Driftwynhub/refs/heads/main/Prisonfight"))()
-end
-
-if game.PlaceId == 81440632616906 then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Z4nq3/Driftwynhub/refs/heads/main/%E2%9B%8F%EF%B8%8F%20Dig%20to%20Earth's%20CORE!"))()
-end
-
 if game.PlaceId == 126884695634066 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Driftwyn/Grow-A-Garden-Beta/refs/heads/main/By%20Driftwyn"))()
 end
 
 if game.PlaceId == 87039211657390 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Driftwyn/Arise-CrossOver-Main2/refs/heads/main/by%20Hace"))()
-end
-
-if game.PlaceId == 113651556675355 then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Z4nq3/Driftywynn/refs/heads/main/Growafishfree.lua"))()
 end
 
 if game.PlaceId == 2753915549 then
