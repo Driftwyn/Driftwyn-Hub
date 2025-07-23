@@ -18,3 +18,7 @@ end
 if game.PlaceId == 1537690962 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Driftwyn/Bee-Swarm-Simulator/refs/heads/main/By%20Driftwyn"))()
 end
+
+if game.PlaceId == 104965156633249 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/fpszrxy/sigma/main/poopscript.lua"))()
+end
